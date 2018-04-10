@@ -1,6 +1,6 @@
 import urllib2
 import json
-# import pymysql.cursors
+import pymysql.cursors
 
 
 API_BASE="http://bartjsonapi.elasticbeanstalk.com/api"
